@@ -1,0 +1,3 @@
+CREATE DATABASE cek_resi
+
+SHOW DATABASE;
